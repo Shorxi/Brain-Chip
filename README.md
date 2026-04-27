@@ -42,6 +42,7 @@ Through the implementation of **Unitary-Logic**, the traditional separation betw
 The structural integrity of the system is defined by the following baseline formula:
 
 $$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]$$
+
 ---
 ## 📂 Documentation & Directory
 The following documents contain the complete specifications and simulation results:
@@ -54,7 +55,7 @@ The following documents contain the complete specifications and simulation resul
 * **[LICENSE (MD)](./LICENSE.md)
 
 ---
-[contact](./contact.md)
+* **[contact](./contact.md)
 
 ---
 DE
