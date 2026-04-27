@@ -1,3 +1,4 @@
+<img src="./pictures/architecture.png" width="100%" alt="Brain-Chip">
 # 🇩🇪 DEUTSCHE FASSUNG
 
 # Systemarchitektur-Spezifikation: Eternal-Memory-Brain-Chip (EMBC) v1.1
