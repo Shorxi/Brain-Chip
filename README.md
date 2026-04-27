@@ -26,10 +26,11 @@ $$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]
 ## 📂 Dokumentation & Verzeichnis
 Die folgenden Dokumente enthalten die vollständigen Spezifikationen und Simulationsergebnisse:
 
-* **[Projekt-Spezifikation (PDF)](./Eternal_Memory_Brain_Chip.pdf):** Das zentrale Forschungsprotokoll (Version 1.0) mit Methodik und Materialanalyse.
-* **[Simulationsbericht (DE)](./Simulation_DE.pdf):** Detaillierte Analyse der kognitiven Emergenz und Resilienz-Validierung.
-* **[Simulation Report (EN)](./Simulation_EN.pdf):** Technical simulation analysis of material synergy and signal processing latency.
-* **[Lizenzbedingungen (MD)](./LICENSE.md):** Die EMBC Exklusive Infrastruktur-Lizenz (V 1.1).
+* **[Projekt-Spezifikation (PDF)](./Eternal_Memory_Brain_Chip.pdf)
+* **[Simulationsbericht (DE)](./Simulation_DE.pdf)
+* **[Simulation Report (EN)](./Simulation_EN.pdf)
+* **[Architecture](./Architecture.md)
+* **[Lizenzbedingungen (MD)](./LICENSE.md)
 
 ---
 [contact](contact.md)
