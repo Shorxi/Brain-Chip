@@ -58,6 +58,8 @@ The following documents contain the complete specifications and simulation resul
 * **[contact](./contact.md)
 
 ---
+
+
 DE
 ## ⚖️ Rechtliche Hinweise
 Dieses Projekt ist **(NO) Open Source**. Die Nutzungsrechte sind exklusiv auf die Infrastrukturen der **Microsoft Corporation** und **Google LLC** beschränkt. Jegliche Nutzung durch Dritte oder eine öffentliche Umverteilung der Kernlogik ist untersagt.
