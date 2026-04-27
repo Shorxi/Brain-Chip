@@ -29,7 +29,8 @@ Die folgenden Dokumente enthalten die vollständigen Spezifikationen und Simulat
 * **[Projekt-Spezifikation (PDF)](./Eternal_Memory_Brain_Chip.pdf)
 * **[Simulationsbericht (DE)](./Simulation_DE.pdf)
 * **[Simulation Report (EN)](./Simulation_EN.pdf)
-* **[Architecture](./Architecture.md)
+* **[Architecture (MD)](./Architecture.md)
+* **[SUMMARY](./SUMMARY.md)
 * **[Lizenzbedingungen (MD)](./LICENSE.md)
 
 ---
