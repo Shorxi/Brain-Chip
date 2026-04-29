@@ -22,8 +22,10 @@ Durch die Implementierung der **Unitary-Logic** wird die traditionelle Trennung 
 ## 🧪 Materialwissenschaftliche Formel
 Die strukturelle Integrität des Systems wird durch die folgende Baseline-Formel definiert:
 
-$$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]$$
+$$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]$$ <--Alt
 
+- **Modifizierte Kernformel:**
+- $$Y_{Core}^{*} = [n' \cdot C_{12}H_{14}O_{5}Si(F_{x}) + y \cdot [F\text{-}POSS] + p \cdot [HfON] + m' \cdot (SiR_{2}O)] + [BNNT] + [GaN]$$
 ---
 EN
 
@@ -41,8 +43,10 @@ Through the implementation of **Unitary-Logic**, the traditional separation betw
 ## 🧪 Materials Science Formula
 The structural integrity of the system is defined by the following baseline formula:
 
-$$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]$$
+$$Y_{Core} = [nC_{12}H_{14}O_{5}Si(F_{x}) + 2XeN + m(SiR_{2}O)] + [BNNT] + [GaN]$$ <-- old
 
+- **Modified Core Formula:**
+- $$Y_{Core}^{*} = [n' \cdot C_{12}H_{14}O_{5}Si(F_{x}) + y \cdot [F\text{-}POSS] + p \cdot [HfON] + m' \cdot (SiR_{2}O)] + [BNNT] + [GaN]$$
 ---
 ## 📂 Documentation & Directory
 The following documents contain the complete specifications and simulation results:
